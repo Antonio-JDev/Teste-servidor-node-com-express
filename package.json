@@ -1,0 +1,14 @@
+{
+  "name": "server-aula",
+  "version": "1.0.0",
+  "description": "Aula de backend do devclub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Junior",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
